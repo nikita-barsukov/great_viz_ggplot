@@ -14,5 +14,3 @@
 * http://www.cookbook-r.com/Graphs/Axes_%28ggplot2%29/
 * http://stackoverflow.com/questions/11610377/how-do-i-change-the-formatting-of-numbers-on-an-axis-with-ggplot
 * http://stackoverflow.com/questions/10032513/ggplot2-legend-to-bottom-and-horizontal
-
-
